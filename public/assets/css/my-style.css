@@ -1,0 +1,22 @@
+.modal-header {
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+    z-index: 999;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.modal-dialog {
+    max-height: 90vh;
+    overflow-y: auto;
+}
+
+.modal-footer {
+    position: sticky;
+    bottom: 0;
+    background-color: #fff;
+    z-index: 999;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
